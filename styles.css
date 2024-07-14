@@ -14,7 +14,7 @@ header {
 }
 header img {
     width: 200px; /* Adjust width as needed */
-    height: auto; /* Maintain aspect ratio */
+    height: 50px; /* Maintain aspect ratio */
 }
 
 nav {
